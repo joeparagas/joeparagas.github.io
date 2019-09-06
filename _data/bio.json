@@ -29,10 +29,9 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "cybersecurity",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
@@ -41,7 +40,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "sports data & analytics",
       "keywords": [
       ]
     }

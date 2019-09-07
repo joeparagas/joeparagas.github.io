@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/racer.PNG
 title: Car Racer Game
-permalink: projects/Car
-date: 2017-12-03
+permalink: projects/Project3
+date: 2017-03-12
 labels:
   - Java
 summary: For the Final Project in ICS 111 our group created a racing game. 

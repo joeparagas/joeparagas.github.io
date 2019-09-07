@@ -4,7 +4,7 @@ type: project
 image: images/racer.PNG
 title: Car Game
 permalink: projects/Cargame
-date: 2017-03-12
+date: 2017-03-012
 labels:
   - Java
 summary: For the final project of ICS 111 I collaborated with a group to make a car racing game.

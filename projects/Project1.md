@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/Tarogotchi.png
-title: Micromouse
+image: images/Tarogotchi.PNG
+title: Tarogotchi
 permalink: projects/Tarogotchi
 date: 2017-023-09
 labels:

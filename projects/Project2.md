@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/roombrah.PNG
 title: Roombrah
-permalink: projects/Project2
+permalink: projects/Roombrah
 date: 2017-10-22
 labels:
   - Java

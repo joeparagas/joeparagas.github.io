@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/racer.PNG
-title: Car Racer Game
+title: Racer Game
 permalink: projects/Car
 date: 2017-03-12
 labels:

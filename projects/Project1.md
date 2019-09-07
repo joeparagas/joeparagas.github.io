@@ -7,7 +7,7 @@ permalink: projects/Tarogotchi
 date: 2017-023-09
 labels:
   - Java
-summary: For the first project of ICS 111 I developed a Tarogotchi game. 
+summary: For the first project of ICS 111 I developed a Tarogotchi plant simulator. 
 ---
 
 <img class="ui medium right floated rounded image" src="/images/Tarogotchi.PNG">

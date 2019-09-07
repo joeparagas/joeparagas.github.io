@@ -15,4 +15,4 @@ For this final project I had to work with a group to develop a game. What we dec
 
 The roles for this project were distributed within this format. I was in charge of creating the car racer class. This involved movement of the car. Another group member was in charge of creating the class that would create the road. The final group member was in charge of creating the class that sent out the other cars that the main racer had to avoid. 
 
-You can view the full game simulation here: https://www.youtube.com/watch?v=ThNRVC1PdYM
+

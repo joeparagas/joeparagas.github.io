@@ -9,7 +9,7 @@ labels:
   - Java
 summary: For the Final Project in ICS 111 our group created a racing game. 
 ---
-<img class="ui medium right floated rounded image" src="/images/car.PNG">
+<img class="ui medium right floated rounded image" src="/images/racer.PNG">
 
 For this final project I had to work with a group to develop a game. What we decided to do was a car racing game. The idea behind our game was for the user to try to stay alive without crashing into the other cars. The longer you were able to survive, the more points you got. 
 

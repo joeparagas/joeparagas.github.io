@@ -4,7 +4,7 @@ type: project
 image: images/roombrah.PNG
 title: Roombrah
 permalink: projects/Project2
-date: 2015-10-22
+date: 2017-10-22
 labels:
   - Java
 summary: For Project 2 in ICS 111 I created a robot floor sweeper simulation .

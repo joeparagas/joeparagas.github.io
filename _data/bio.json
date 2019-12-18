@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "cybersecurity",
+      "name": "algorithms",
       "keywords": [
         
       ]
@@ -54,6 +54,10 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML"
+        "Semantic UI", 
+        "CSS"
+       
       ]
     },
     {
@@ -62,6 +66,8 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
+        "Eclipse",
+        "IntelliJ"
        ]
     }
   ],
@@ -80,7 +86,7 @@
   "work": [
     {
       "company": "KTUH",
-      "position": "Systems Operator",
+      "position": "Assistant Web Director",
       "website": "",
       "startDate": "2019-06-01",
       "endDate": "Present",

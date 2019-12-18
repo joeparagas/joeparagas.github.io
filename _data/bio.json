@@ -29,18 +29,18 @@
   },
   "interests": [
     {
-      "name": "algorithms",
+      "name": "Algorithms",
       "keywords": [
         
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data mining",
       "keywords": [
       ]
     },
     {
-      "name": "statistics",
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
@@ -72,7 +72,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HomePage.Png
+image: images/HomePage.png
 title: WarriorJam 
 permalink: projects/WarriorJam
 date: 2019-12-18

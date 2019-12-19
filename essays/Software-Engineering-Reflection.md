@@ -4,7 +4,7 @@ type: essay
 title: React-ing to Software Engineering
 date: 2019-12-18
 labels:
-  - Adjile 
+  - Agile Project Management
   - Coding Standards
 ---
 ## Fall 2019

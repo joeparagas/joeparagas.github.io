@@ -34,4 +34,4 @@ In this project, my main objectives were to create the Landing Page, Sign-In/Sig
 As a team, I feel that we have gained experience of what it's like in a working environment. For myself, I've gained valuable experience of what it's like working on a team. Overall, I feel that I put a good amount of effort into the project. What's most important is that I gained an understanding of how I can apply my knowledge of Javascript, HTML/CSS, Semantic UI React to solving real world problems. 
 
 ## Where can I find this project?
-To view our organization page, click [here](https://github.com/warrior-jam/warrior-jam)
+To view our organization page, click [here](https://github.com/warrior-jam)

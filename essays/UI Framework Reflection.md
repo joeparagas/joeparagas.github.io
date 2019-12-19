@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Some antics about Semantic UI Frameworks 
+title: Some antics of Semantic UI Frameworks 
 date: 2019-10-10
 labels:
   - Software Engineering

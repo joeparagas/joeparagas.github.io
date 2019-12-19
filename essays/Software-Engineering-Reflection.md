@@ -4,7 +4,7 @@ type: essay
 title: React-ing to Software Engineering
 date: 2019-12-18
 labels:
-  - Ethics in Software Engineering
+  - Adjile 
   - Coding Standards
 ---
 ## Fall 2019
@@ -15,6 +15,6 @@ Coding Standards are guidelines, habits, and programming styles that every devel
 
  <img class="ui large image" src="../images/coding-standards.png">
 
-## Ethics in Software Engineering
+## Agile Project Management
 
 

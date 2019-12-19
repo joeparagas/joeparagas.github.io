@@ -1,12 +1,14 @@
 ---
 layout: project
 type: project
-image: images/Tarogotchi.PNG
-title: Tarogotchi
-permalink: projects/Tarogotchi
-date: 2017-023-09
+image: images/HomePage.png
+title: WarriorJam
+permalink: projects/WarriorJam
+date: 2017-12-18
 labels:
-  - Java
+  - Meteor
+  - Group Project
+  - Software Engineering
 summary: For the first project of ICS 111 I developed a Tarogotchi plant simulator. 
 ---
 

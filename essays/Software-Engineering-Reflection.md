@@ -16,5 +16,7 @@ Coding Standards are guidelines, habits, and programming styles that every devel
  <img class="ui large image" src="../images/coding-standards.png">
 
 ## Agile Project Management
+Agile Project Management is a very efficient way of project management. It allows groups to break up the whole project into smaller sub-projects. These sub-projects are then finished in shorter amounts of time. This process is called Issue Driven Project Management (IDPM). For example, the final project for ICS 314 was divided into 3 milestones. For each milestone, there were a set of tasks that needed to be completed in order to satisfy the Milestone requirements. This style of project management is very efficient in the fact that the smaller sup-projects add up to create the overall project. It's like the more bites of the apple you take, the more likely you are to finish the apple. APM also promotes a team-working environment where everyone is held accountable for the portion of the work. There are really no roles of power because everyone has the same amount of work to do and also the ability to create new issues and assign those issues to others. 
 
+<img class="ui large image" src="../images/Agile-project.png">
 
